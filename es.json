@@ -107,6 +107,19 @@
     "selecciones" : {
       "si" : "Si",
       "no" : "No"
+    },
+    "tipos" : {
+      "elementos" : {
+        "fisico" : "Físico",
+        "fuego": "Fuego",
+        "hielo": "Hielo",
+        "rayo": "Rayo",
+        "agua": "Agua",
+        "tierra": "Tierra",
+        "viento": "Viento",
+        "luz": "Luz",
+        "oscuridad": "Oscuridad"
+      }
     }
   },
   "quests" : {
@@ -118,19 +131,27 @@
 	"Intro": {
 		"inicio":
     [
-  		"Me temo que aún no puedes descansar...\nTu tiempo llegara...",
-  		"Pero aún te queda mucho por hacer...\nNos volveremos a ver...",
-  		"Hasta entonces, cuidate!",
-  		"Ouch... mi cabeza da vueltas...\nDonde estoy?!",
-  		"Hola...\nHay alguien?",
-      "No creo que volver a entrar sirva de algo.",
-      "Aunque no veo nada ni nadie cerca.\nTengo que descubrir donde estoy...",
-      "Quizás luego pueda ser útil volver si\nno encuentro ningún otro lugar donde pasar\nla noche.",
-      "Por ahora no necesito volver adentro.",
-      "Esa chica... perseguía algo.",
-      "Creo que debería seguirlos...\nAunque no estoy seguro cual de los dos\nes el que necesita ayuda en realidad.",
-      "Hola!!\nPuede alguien escucharme?",
-      "No puedo leer lo que dice aquí."
+      "De prisa!!\nNo hay tiempo...",
+      "Desearía ir contigo.\nPero no podrá ser.",
+      "Nos volveremos a ver.",
+      "Recuerda.",
+      "Yo siempre te \\..\\..\\..",
+      "Espera!!!",
+      "Quien eres??",
+      "Que intentas decir???",
+      "Joseph",
+      "Joseph...",
+      "Estas bien muchacho?",
+      "Eh! \\.\\.\\.Si, estoy bien.",
+      "El mismo sueño de siempre?",
+      "Si, sonidos de una lucha, alguien\nme habla pero solo alcanzo a ver una luz",
+      "Luego el bosque donde me encontraste.",
+      "No te preocupes chico.\nYa recordaras tu pasado algun día",
+      "Hasta entonces esta es tu casa y lo sabes.",
+      "Por ahora, ya amanecio asi que a trabajar\npreparare algo para desayunar.",
+      "Hoy se cumplen 3 años\ndesde que \\Albert me encontro.",
+      "Chico, ya que saldras\ntraeme algunas bayas silvestres.",
+      "De acuerdo"
   	],
 		"sasha":
     [
